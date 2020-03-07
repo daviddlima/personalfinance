@@ -5,5 +5,14 @@
 
 # financial information #
 #########################
-data/
 *.csv
+*.txt
+*.parquet
+*.tsv
+*.xml
+*xls
+*.xlsx
+*.xlsm
+*.xltx
+*.xltm
+*.zip
