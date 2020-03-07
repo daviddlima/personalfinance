@@ -1,0 +1,4 @@
+name: personalfinance
+dependencies:
+  - python=3.*
+  - pandas
